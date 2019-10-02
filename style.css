@@ -133,3 +133,8 @@ h2{
 .pic {
 	margin-top: 100px;
 }
+
+#para{
+	padding: 40px;
+	box-shadow: 0 0 4px 4px #666;
+}
