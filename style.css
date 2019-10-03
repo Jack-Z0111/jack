@@ -135,6 +135,7 @@ h2{
 }
 
 #para{
+	margin: 100px;
 	padding: 40px;
 	box-shadow: 0 0 4px 4px #666;
 }
